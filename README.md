@@ -1,2 +1,2 @@
 # Html-Css-Project1
-Html, Css template
+Html, CSS template
