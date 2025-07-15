@@ -46,6 +46,12 @@ body {
         width: 1170px;
     }
 }
+@media (max-width: 767px) {
+    .container {
+        width: 100%;
+        
+    }
+}
 
 /* End of global rules */
 
